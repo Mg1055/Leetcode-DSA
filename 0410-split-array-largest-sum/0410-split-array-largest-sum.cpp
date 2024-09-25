@@ -1,42 +1,31 @@
 class Solution {
 public:
-
-    bool isPossible(vector<int>&nums, int k, long long maxpages){
-        long long currpages = 0;
-        for(int i = 0; i < nums.size(); i++){
-            if(currpages > maxpages)    return false;
-            else if(nums[i] + currpages <= maxpages){
-                currpages += nums[i];
-            }
-            else{
-                k--;
-                currpages = nums[i];
-                if(k < 1)   return false;
+     bool doable (const vector<int>& nums, int cuts, long long max) {
+        int acc = 0;
+        for (auto num : nums) {
+            if (num > max) return false;
+            else if (acc + num <= max) acc += num;
+            else {
+                --cuts;
+                acc = num;
+                if (cuts < 0) return false;
             }
         }
         return true;
-    }    
-
-
-    int splitArray(vector<int>& nums, int k) {
-        long long l = 0, r = 0;
-        for(auto x : nums){
-            r += x;
-            l = min((int)l, (int)x);
+    }
+    
+    int splitArray(vector<int>& nums, int m) {
+        long long left = 0, right = 0;
+        for (auto num : nums) {
+            left = max(left, (long long)num);
+            right += num;
         }
-
-        long long ans = 0;    
-        while(l < r){
-            long long mid = l + (r-l)/2;
-            if(isPossible(nums, k , mid)){
-                ans = mid;
-                r = mid-1;
-            }
-            else{
-                l = mid+1;
-            }
+        
+        while (left < right) {
+            long long mid = left + (right - left) / 2;
+            if (doable(nums, m - 1, mid)) right = mid;
+            else left = mid + 1;
         }
-
-        return (int)ans;
+        return left;
     }
 };
