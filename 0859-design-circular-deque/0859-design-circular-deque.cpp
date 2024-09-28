@@ -54,8 +54,10 @@ public:
     bool deleteFront() {
         if(size == 0)
             return false;
+        DLLNode *curr = head->next;
         head->next->next->prev = head;
         head->next = head->next->next;
+        delete curr;
         size--;
         return true;
     }
@@ -63,8 +65,10 @@ public:
     bool deleteLast() {
         if(size == 0)
             return false;
+        DLLNode *curr = tail->prev;
         tail->prev->prev->next = tail;
         tail->prev = tail->prev->prev;
+        delete curr;
         size--;
         return true;
     }
