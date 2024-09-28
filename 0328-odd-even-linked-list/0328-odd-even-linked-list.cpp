@@ -12,15 +12,15 @@ class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
         if(head == NULL || head->next == NULL)  return head;
-        ListNode *oe = head, *ee = head->next;
-        while(ee != NULL && ee->next != NULL){
-            ListNode* temp1 = oe->next;
-            oe->next = ee->next;
-            ListNode* temp2 = oe->next->next;
-            oe->next->next = temp1;
-            ee->next = temp2;
-            oe = oe->next;
-            ee = ee->next;
+        ListNode *oddEnd = head, *evenEnd = head->next;
+        while(evenEnd != NULL && evenEnd->next != NULL){
+            ListNode* temp1 = oddEnd->next;
+            oddEnd->next = evenEnd->next;
+            ListNode* temp2 = oddEnd->next->next;
+            oddEnd->next->next = temp1;
+            evenEnd->next = temp2;
+            oddEnd = oddEnd->next;
+            evenEnd = evenEnd->next;
         } 
         return head;
     }
