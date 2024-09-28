@@ -56,12 +56,14 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mg1055/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0148-sort-list) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Mg1055/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Mg1055/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mg1055/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0859-design-circular-deque](https://github.com/Mg1055/Leetcode-DSA/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -70,6 +72,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Mg1055/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mg1055/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
@@ -85,4 +88,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mg1055/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
