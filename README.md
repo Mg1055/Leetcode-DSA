@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mg1055/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/Mg1055/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/Mg1055/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0729-my-calendar-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/0729-my-calendar-i) |
@@ -29,6 +30,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mg1055/Leetcode-DSA/tree/master/0169-majority-element) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mg1055/Leetcode-DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Binary Search
 |  |
@@ -75,6 +77,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Mg1055/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Mg1055/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Mg1055/Leetcode-DSA/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -102,6 +105,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mg1055/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mg1055/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Mg1055/Leetcode-DSA/tree/master/0169-majority-element) |
 ## Queue
 |  |
 | ------- |
@@ -115,6 +119,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Mg1055/Leetcode-DSA/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
