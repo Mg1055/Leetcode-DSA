@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/Mg1055/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Mg1055/Leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Mg1055/Leetcode-DSA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Mg1055/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mg1055/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Mg1055/Leetcode-DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Mg1055/Leetcode-DSA/tree/master/0169-majority-element) |
