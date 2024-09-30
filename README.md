@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mg1055/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/Mg1055/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Mg1055/Leetcode-DSA/tree/master/0053-maximum-subarray) |
@@ -105,6 +106,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Mg1055/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mg1055/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Mg1055/Leetcode-DSA/tree/master/0169-majority-element) |
