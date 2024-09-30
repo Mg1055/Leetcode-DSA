@@ -117,6 +117,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mg1055/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Mg1055/Leetcode-DSA/tree/master/0050-powx-n) |
 ## Sorting
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mg1055/Leetcode-DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Mg1055/Leetcode-DSA/tree/master/0050-powx-n) |
 ## Matrix
 |  |
 | ------- |
