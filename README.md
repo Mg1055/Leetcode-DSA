@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mg1055/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Mg1055/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0729-my-calendar-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/Mg1055/Leetcode-DSA/tree/master/0859-design-circular-deque) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mg1055/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/Mg1055/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0729-my-calendar-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/0729-my-calendar-i) |
 ## Dynamic Programming
@@ -91,6 +93,7 @@
 | [0141-linked-list-cycle](https://github.com/Mg1055/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mg1055/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0287-find-the-duplicate-number](https://github.com/Mg1055/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -131,4 +134,8 @@
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mg1055/Leetcode-DSA/tree/master/1497-design-a-stack-with-increment-operation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Mg1055/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
