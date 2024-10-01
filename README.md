@@ -23,6 +23,7 @@
 | [0859-design-circular-deque](https://github.com/Mg1055/Leetcode-DSA/tree/master/0859-design-circular-deque) |
 | [0948-sort-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/0948-sort-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mg1055/Leetcode-DSA/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Mg1055/Leetcode-DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Mg1055/Leetcode-DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mg1055/Leetcode-DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## String
@@ -38,6 +39,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Mg1055/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/0229-majority-element-ii) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Mg1055/Leetcode-DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mg1055/Leetcode-DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Binary Search
 |  |
@@ -120,6 +122,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Mg1055/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Mg1055/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/0229-majority-element-ii) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Mg1055/Leetcode-DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Queue
 |  |
 | ------- |
