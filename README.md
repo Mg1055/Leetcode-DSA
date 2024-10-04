@@ -28,6 +28,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/Mg1055/Leetcode-DSA/tree/master/1694-make-sum-divisible-by-p) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Mg1055/Leetcode-DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mg1055/Leetcode-DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mg1055/Leetcode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Mg1055/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/Mg1055/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0908-middle-of-the-linked-list) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mg1055/Leetcode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Mg1055/Leetcode-DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mg1055/Leetcode-DSA/tree/master/1694-make-sum-divisible-by-p) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mg1055/Leetcode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Queue
 |  |
 | ------- |
@@ -149,6 +152,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Mg1055/Leetcode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0948-sort-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/1256-rank-transform-of-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mg1055/Leetcode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Merge Sort
 |  |
 | ------- |
