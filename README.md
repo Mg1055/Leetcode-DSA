@@ -32,6 +32,7 @@
 ## String
 |  |
 | ------- |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mg1055/Leetcode-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mg1055/Leetcode-DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mg1055/Leetcode-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Trie
@@ -68,6 +69,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Mg1055/Leetcode-DSA/tree/master/0435-non-overlapping-intervals) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mg1055/Leetcode-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Mg1055/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/Mg1055/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0908-middle-of-the-linked-list) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mg1055/Leetcode-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mg1055/Leetcode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
@@ -180,6 +183,7 @@
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mg1055/Leetcode-DSA/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mg1055/Leetcode-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mg1055/Leetcode-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Bit Manipulation
 |  |
