@@ -33,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mg1055/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0567-permutation-in-string](https://github.com/Mg1055/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mg1055/Leetcode-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mg1055/Leetcode-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -188,6 +189,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mg1055/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mg1055/Leetcode-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mg1055/Leetcode-DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mg1055/Leetcode-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
