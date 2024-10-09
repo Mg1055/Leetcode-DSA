@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Mg1055/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Mg1055/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Mg1055/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Mg1055/Leetcode-DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Mg1055/Leetcode-DSA/tree/master/0053-maximum-subarray) |
@@ -63,6 +64,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mg1055/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Mg1055/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Mg1055/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mg1055/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -122,6 +124,7 @@
 | ------- |
 | [0018-4sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Mg1055/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Mg1055/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0148-sort-list) |
@@ -192,6 +195,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mg1055/Leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Mg1055/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mg1055/Leetcode-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mg1055/Leetcode-DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mg1055/Leetcode-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -231,4 +235,8 @@
 | [0039-combination-sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Mg1055/Leetcode-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Mg1055/Leetcode-DSA/tree/master/0078-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Mg1055/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
