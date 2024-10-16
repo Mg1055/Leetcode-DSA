@@ -25,15 +25,14 @@ public:
             curr = curr->next;
         }
         
-        if(l1){
+        if(l1)
             curr->next = l1;
-        }
         
-        if(l2){
+        if(l2)
             curr->next = l2;
-        }
-        ListNode *temp = dummy->next;
+        
+        ListNode *head = dummy->next;
         delete dummy;
-        return temp;
+        return head;
     }
 };
