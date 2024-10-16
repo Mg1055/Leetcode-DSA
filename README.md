@@ -18,6 +18,7 @@
 | [0088-merge-sorted-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mg1055/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Mg1055/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mg1055/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Mg1055/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Mg1055/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Mg1055/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mg1055/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Mg1055/Leetcode-DSA/tree/master/0169-majority-element) |
@@ -268,4 +270,8 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mg1055/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [1002-maximum-width-ramp](https://github.com/Mg1055/Leetcode-DSA/tree/master/1002-maximum-width-ramp) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Mg1055/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
