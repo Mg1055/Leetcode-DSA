@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Mg1055/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Mg1055/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Mg1055/Leetcode-DSA/tree/master/0048-rotate-image) |
@@ -146,6 +147,7 @@
 | [0015-3sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Mg1055/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Mg1055/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
