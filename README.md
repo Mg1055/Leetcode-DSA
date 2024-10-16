@@ -25,6 +25,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Mg1055/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Mg1055/Leetcode-DSA/tree/master/0435-non-overlapping-intervals) |
+| [0485-max-consecutive-ones](https://github.com/Mg1055/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mg1055/Leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/Mg1055/Leetcode-DSA/tree/master/0859-design-circular-deque) |
