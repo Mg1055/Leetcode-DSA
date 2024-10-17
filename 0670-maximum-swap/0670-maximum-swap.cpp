@@ -1,42 +1,27 @@
 class Solution {
 public:
     int maximumSwap(int num) {
-        vector<int>curr_nums;
-        int k = num;
-        while(k > 0){
-            curr_nums.push_back(k%10);
-            k = k/10;
-        }
-        reverse(curr_nums.begin(), curr_nums.end());
+        string str_num = to_string(num);
 
-        int n = curr_nums.size();
-        vector<pair<int,int>>max_nums(n, make_pair(0, 0));
-        
-        max_nums[n-1].first = curr_nums[n-1];
-        max_nums[n-1].second = n-1;
-        for(int i = n-2; i >= 0; i--){
-            if(curr_nums[i] > max_nums[i+1].first){
-                max_nums[i].first = curr_nums[i];
-                max_nums[i].second = i;
+        int max_i = -1, max_num = -1;
+        int left_i = -1, right_i = -1, n = str_num.size();
+
+        for(int i = n-1; i >= 0; i--){
+            if(str_num[i] > max_num){
+                max_num = str_num[i];
+                max_i = i;
+                continue;
             }
-            else{
-                max_nums[i] = max_nums[i+1];
+
+            if(str_num[i] < max_num){
+                left_i = i;
+                right_i = max_i;
             }
         }
 
-        for(int i = 0; i < n; i++){
-            if(max_nums[i].first > curr_nums[i]){
-                int second_ind = max_nums[i].second;
-                swap(curr_nums[i], curr_nums[second_ind]);
-                break;
-            }
-        }
+        if(left_i == -1)    return num;
+        swap(str_num[left_i], str_num[right_i]);
 
-        int newNum = 0;
-        for(int i = 0; i < n; i++){
-            newNum = newNum*10 + curr_nums[i];
-        }
-
-        return newNum;
+        return stoi(str_num);
     }
 };
