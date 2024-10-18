@@ -38,6 +38,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/Mg1055/Leetcode-DSA/tree/master/1694-make-sum-divisible-by-p) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Mg1055/Leetcode-DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Mg1055/Leetcode-DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mg1055/Leetcode-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mg1055/Leetcode-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mg1055/Leetcode-DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mg1055/Leetcode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -252,6 +253,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Mg1055/Leetcode-DSA/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Mg1055/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mg1055/Leetcode-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -284,6 +286,7 @@
 | [0039-combination-sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Mg1055/Leetcode-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Mg1055/Leetcode-DSA/tree/master/0078-subsets) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mg1055/Leetcode-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -293,4 +296,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mg1055/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mg1055/Leetcode-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
