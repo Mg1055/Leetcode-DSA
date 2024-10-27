@@ -1,47 +1,35 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-    vector<int> depth, levelArr, max1, max2;
-
-    int height(TreeNode* root, int level) {
-        if (!root) return 0;
-        levelArr[root->val] = level;
-        depth[root->val] = 1 + max(height(root->left, level + 1), height(root->right, level + 1));
-
+    unordered_map<int,int> l,r,ans;
     
-        if (max1[level] < depth[root->val]) {
-            max2[level] = max1[level];
-            max1[level] = depth[root->val];
-        } else if (max2[level] < depth[root->val]) {
-            max2[level] = depth[root->val];
-        }
+    int height(TreeNode* root){
+        if(root == NULL) 
+            return 0;
+        int le = height(root->left);
+        int re = height(root->right);
 
-        return depth[root->val];
+        l[root->val] = le;     
+        r[root->val] = re;      
+        return max(le, re)+1;      
     }
 
-    vector<int> treeQueries(TreeNode* root, vector<int>& queries) {
-        depth.resize(100001, 0);
-        levelArr.resize(100001, 0);
-        max1.resize(100001, 0);
-        max2.resize(100001, 0);
-        height(root, 0);
+    void fun(TreeNode* root,int MaxSoFar,int depth){
+        if(root == NULL) return;
 
-        for (int i = 0; i < queries.size(); i++) {
-            int q = queries[i];
-            int level = levelArr[q];
-            queries[i] = (max1[level] == depth[q] ? max2[level] : max1[level]) + level - 1;
-        }
+        ans[root->val] = MaxSoFar;
+        fun(root->left, max(MaxSoFar, depth + r[root->val]), depth + 1);
+        fun(root->right, max(MaxSoFar, depth + l[root->val]), depth + 1);
+    }
 
-        return queries;
+    vector<int> treeQueries(TreeNode* root, vector<int>& q) {
+        height(root);
+        fun(root->left, r[root->val], 1);         
+        fun(root->right, l[root->val], 1);        
+        
+        vector<int> res(q.size());
+        for(int i = 0; i < q.size(); i++)
+            res[i] = ans[q[i]];
+
+        return res;
     }
 };
