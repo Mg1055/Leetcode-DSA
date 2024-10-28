@@ -45,6 +45,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mg1055/Leetcode-DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mg1055/Leetcode-DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mg1055/Leetcode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Mg1055/Leetcode-DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## String
 |  |
@@ -81,6 +82,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Mg1055/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0729-my-calendar-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/0729-my-calendar-i) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/2586-longest-square-streak-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 | [0410-split-array-largest-sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Mg1055/Leetcode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mg1055/Leetcode-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/2586-longest-square-streak-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -188,6 +191,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/Mg1055/Leetcode-DSA/tree/master/1694-make-sum-divisible-by-p) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Mg1055/Leetcode-DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mg1055/Leetcode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Queue
 |  |
@@ -219,6 +223,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mg1055/Leetcode-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mg1055/Leetcode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Merge Sort
 |  |
