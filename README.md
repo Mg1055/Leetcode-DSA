@@ -38,6 +38,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mg1055/Leetcode-DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Mg1055/Leetcode-DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mg1055/Leetcode-DSA/tree/master/1694-make-sum-divisible-by-p) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Mg1055/Leetcode-DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Mg1055/Leetcode-DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mg1055/Leetcode-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -83,6 +84,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Mg1055/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0729-my-calendar-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/0729-my-calendar-i) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/2586-longest-square-streak-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -95,6 +97,7 @@
 | [0410-split-array-largest-sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Mg1055/Leetcode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mg1055/Leetcode-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Mg1055/Leetcode-DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Greedy
@@ -107,6 +110,7 @@
 | [0670-maximum-swap](https://github.com/Mg1055/Leetcode-DSA/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mg1055/Leetcode-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Mg1055/Leetcode-DSA/tree/master/1304-longest-happy-string) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mg1055/Leetcode-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mg1055/Leetcode-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Mg1055/Leetcode-DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
