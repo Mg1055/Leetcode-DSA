@@ -151,6 +151,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Mg1055/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Mg1055/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Mg1055/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mg1055/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -168,6 +169,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Mg1055/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Mg1055/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0148-sort-list) |
