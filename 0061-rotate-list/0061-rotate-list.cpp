@@ -10,31 +10,24 @@
  */
 class Solution {
 public:
-    void rotatevec(vector<int>& v, int k){
-        reverse(v.begin(),v.begin()+(v.size()-k));
-        reverse(v.begin()+(v.size()-k),v.end());
-        reverse(v.begin(),v.end());
-    }
-    
     ListNode* rotateRight(ListNode* head, int k) {
-        if(head == NULL)
+        if (head == NULL || head->next == NULL || k == 0) 
             return head;
-        vector<int>nums;
-        ListNode* curr = head;
-        while(curr != NULL){
-            nums.push_back(curr->val);
-            curr = curr->next;
+        int len = 1;
+        ListNode *tail = head;
+
+        while (tail->next != NULL) {
+            tail = tail->next;
+            len++;
         }
-        if(k >= nums.size())
-            k = k%nums.size();
-        rotatevec(nums,k);
-        curr = head;
-        int i = 0;
-        while(curr != NULL){
-            curr->val = nums[i];
-            i++;
-            curr = curr->next;
-        }
+
+        tail->next = head;
+        k = k % len;
+        for (int i = 0; i < len - k; i++)
+            tail = tail->next;
+        
+        head = tail->next;
+        tail->next = NULL;
         return head;
     }
 };
