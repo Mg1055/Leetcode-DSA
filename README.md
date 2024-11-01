@@ -31,6 +31,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mg1055/Leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/Mg1055/Leetcode-DSA/tree/master/0859-design-circular-deque) |
+| [0890-lemonade-change](https://github.com/Mg1055/Leetcode-DSA/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/Mg1055/Leetcode-DSA/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/1256-rank-transform-of-an-array) |
@@ -114,6 +115,7 @@
 | [0455-assign-cookies](https://github.com/Mg1055/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mg1055/Leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Mg1055/Leetcode-DSA/tree/master/0670-maximum-swap) |
+| [0890-lemonade-change](https://github.com/Mg1055/Leetcode-DSA/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mg1055/Leetcode-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Mg1055/Leetcode-DSA/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
