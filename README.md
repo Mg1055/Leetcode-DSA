@@ -62,6 +62,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mg1055/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Mg1055/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0567-permutation-in-string](https://github.com/Mg1055/Leetcode-DSA/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/Mg1055/Leetcode-DSA/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mg1055/Leetcode-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Mg1055/Leetcode-DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Mg1055/Leetcode-DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -384,4 +385,8 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mg1055/Leetcode-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mg1055/Leetcode-DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/2677-cousins-in-binary-tree-ii) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Mg1055/Leetcode-DSA/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
