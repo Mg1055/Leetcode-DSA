@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Mg1055/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Mg1055/Leetcode-DSA/tree/master/0048-rotate-image) |
@@ -340,6 +341,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Mg1055/Leetcode-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Mg1055/Leetcode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/0090-subsets-ii) |
