@@ -63,6 +63,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mg1055/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Mg1055/Leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Mg1055/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0567-permutation-in-string](https://github.com/Mg1055/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Mg1055/Leetcode-DSA/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mg1055/Leetcode-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -108,6 +109,7 @@
 | [0062-unique-paths](https://github.com/Mg1055/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mg1055/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Mg1055/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Mg1055/Leetcode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mg1055/Leetcode-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -345,6 +347,7 @@
 | [0051-n-queens](https://github.com/Mg1055/Leetcode-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Mg1055/Leetcode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Mg1055/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mg1055/Leetcode-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Monotonic Stack
 |  |
