@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>>ans;
 
-    void f(int ind, int t, vector<int>&arr, vector<int>temp){
+    void f(int ind, int t, vector<int>&arr, vector<int>&temp){
         if(t == 0){
             ans.push_back(temp);
             return;
