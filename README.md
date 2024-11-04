@@ -14,6 +14,7 @@
 | [0040-combination-sum-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Mg1055/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Mg1055/Leetcode-DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Mg1055/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Mg1055/Leetcode-DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Mg1055/Leetcode-DSA/tree/master/0053-maximum-subarray) |
@@ -350,6 +351,7 @@
 | [0037-sudoku-solver](https://github.com/Mg1055/Leetcode-DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Mg1055/Leetcode-DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Mg1055/Leetcode-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Mg1055/Leetcode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/0090-subsets-ii) |
