@@ -16,8 +16,8 @@ public:
             nums.erase(nums.begin() + new_seq_no);
             if(nums.size() == 0)
                 break;
-            k = k%fact; // new position of k
-            fact = fact/nums.size();
+            k %= fact; // new position of k
+            fact /= nums.size();
         }
         return ans;
     }
