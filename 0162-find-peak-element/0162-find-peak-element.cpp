@@ -12,8 +12,7 @@ public:
             int mid = (l+r)/2;
             if(nums[mid-1] < nums[mid] && nums[mid] > nums[mid+1])
                 return mid;
-            
-            if(nums[mid-1] < nums[mid])
+            else if(nums[mid-1] < nums[mid])
                 l = mid+1;
             else 
                 r = mid-1;
