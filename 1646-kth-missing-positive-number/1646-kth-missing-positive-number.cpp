@@ -28,6 +28,9 @@ public:
                 r = mid-1;
         }
 
+        // need arr[r] + more
+        // more = k - missing = k - (arr[r] - (r+1)) = k - arr[r] + r + 1;
+        // arr[r] + more = arr[r] + k - arr[r] + r + 1 = r + k + 1
         return r+k+1;
     }
 };
