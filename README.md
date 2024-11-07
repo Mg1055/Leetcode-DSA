@@ -171,6 +171,7 @@
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Mg1055/Leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0729-my-calendar-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/Mg1055/Leetcode-DSA/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mg1055/Leetcode-DSA/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -225,6 +226,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Mg1055/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Mg1055/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Mg1055/Leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Mg1055/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Mg1055/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -281,6 +283,7 @@
 | [0169-majority-element](https://github.com/Mg1055/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/Mg1055/Leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/Mg1055/Leetcode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Mg1055/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mg1055/Leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -304,6 +307,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mg1055/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Mg1055/Leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mg1055/Leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0948-sort-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/Mg1055/Leetcode-DSA/tree/master/1304-longest-happy-string) |
@@ -440,4 +444,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Mg1055/Leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
