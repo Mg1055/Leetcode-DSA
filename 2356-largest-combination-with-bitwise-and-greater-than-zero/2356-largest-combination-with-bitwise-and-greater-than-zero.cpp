@@ -7,9 +7,8 @@ public:
             int k = x;
             int i = 0;
             while(k > 0){
-                setBits[i] += k%2;
+                setBits[i++] += k%2;
                 k = k/2;
-                i++;
             }
         }
 
