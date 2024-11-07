@@ -45,6 +45,7 @@
 | [0890-lemonade-change](https://github.com/Mg1055/Leetcode-DSA/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/Mg1055/Leetcode-DSA/tree/master/1002-maximum-width-ramp) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mg1055/Leetcode-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1256-rank-transform-of-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mg1055/Leetcode-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mg1055/Leetcode-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -111,6 +112,7 @@
 | [0410-split-array-largest-sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/0729-my-calendar-i) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mg1055/Leetcode-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Mg1055/Leetcode-DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mg1055/Leetcode-DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
