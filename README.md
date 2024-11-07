@@ -56,6 +56,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Mg1055/Leetcode-DSA/tree/master/1646-kth-missing-positive-number) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mg1055/Leetcode-DSA/tree/master/1694-make-sum-divisible-by-p) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2047-find-a-peak-element-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Mg1055/Leetcode-DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Mg1055/Leetcode-DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mg1055/Leetcode-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -118,6 +119,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mg1055/Leetcode-DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Mg1055/Leetcode-DSA/tree/master/1646-kth-missing-positive-number) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2047-find-a-peak-element-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/2586-longest-square-streak-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -317,6 +319,7 @@
 | [0048-rotate-image](https://github.com/Mg1055/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Mg1055/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mg1055/Leetcode-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2047-find-a-peak-element-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Mg1055/Leetcode-DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Stack
 |  |
