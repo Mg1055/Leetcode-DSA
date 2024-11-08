@@ -175,6 +175,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Mg1055/Leetcode-DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Mg1055/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mg1055/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Mg1055/Leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
@@ -349,6 +350,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mg1055/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mg1055/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Mg1055/Leetcode-DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Mg1055/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mg1055/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
