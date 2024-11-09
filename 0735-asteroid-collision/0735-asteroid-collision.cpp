@@ -8,17 +8,13 @@ public:
                 st.push(ast[i]);
             }
             else {
-                while(!st.empty() and st.top() > 0 and st.top() < abs(ast[i])) {
+                while(!st.empty() && st.top() > 0 && st.top() < abs(ast[i])) 
                     st.pop();
-                }
-                if(!st.empty() and st.top() == abs(ast[i])) {
+
+                if(!st.empty() and st.top() == abs(ast[i]))
                     st.pop();
-                }
-                else {
-                    if(st.empty() || st.top() < 0) {
-                        st.push(ast[i]);
-                    }
-                }
+                else if(st.empty() || st.top() < 0)
+                    st.push(ast[i]);
             }
         }
 
