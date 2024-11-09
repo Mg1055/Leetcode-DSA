@@ -87,6 +87,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mg1055/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Mg1055/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Mg1055/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
+| [0402-remove-k-digits](https://github.com/Mg1055/Leetcode-DSA/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/Mg1055/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Mg1055/Leetcode-DSA/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mg1055/Leetcode-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -160,6 +161,7 @@
 | [0045-jump-game-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mg1055/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/Mg1055/Leetcode-DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Mg1055/Leetcode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Mg1055/Leetcode-DSA/tree/master/0455-assign-cookies) |
@@ -367,6 +369,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Mg1055/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mg1055/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Mg1055/Leetcode-DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Mg1055/Leetcode-DSA/tree/master/0735-asteroid-collision) |
@@ -436,6 +439,7 @@
 | [0042-trapping-rain-water](https://github.com/Mg1055/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mg1055/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Mg1055/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/Mg1055/Leetcode-DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Mg1055/Leetcode-DSA/tree/master/0943-sum-of-subarray-minimums) |
