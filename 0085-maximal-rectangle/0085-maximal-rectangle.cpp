@@ -32,8 +32,7 @@ public:
                 else
                     arr[c] = 0;
             }
-            int currArea = largestHisto(arr);
-            largestArea = max(currArea, largestArea);
+            largestArea = max(largestHisto(arr), largestArea);
         }
         return largestArea;
     }
