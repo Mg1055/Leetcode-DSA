@@ -1,72 +1,82 @@
 class LRUCache {
 public:
 
-    class node {
+    class DLLNode {
         public:
             int key;
         int val;
-        node* next;
-        node* prev;
-        node(int key, int val) {
+        DLLNode* next;
+        DLLNode* prev;
+        DLLNode(int key, int val) {
             this->key = key;
             this->val = val;
         }
     };
 
-    node* head = new node(-1, -1);
-    node* tail = new node(-1, -1);
+    DLLNode* head = new DLLNode(-1, -1);
+    DLLNode* tail = new DLLNode(-1, -1);
 
     int cap;
-    unordered_map<int, node*>mp;
+    int size;
+    unordered_map<int, DLLNode*>mp;
     
     LRUCache(int capacity) {
         cap = capacity;
+        size = 0;
         head->next = tail;
         tail->prev = head;
     }
 
-    void addnode(node* newnode) {
-        node* temp = head->next;
-        newnode->next = temp;
-        newnode->prev = head;
-        head->next = newnode;
-        temp->prev = newnode;
+    void addNode(DLLNode* node) {
+        node->prev = head;
+        node->next = head->next;
+
+        head->next->prev = node;
+        head->next = node;
     }
 
-    void deletenode(node* delnode) {
-        node* delprev = delnode->prev;
-        node* delnext = delnode->next;
-        delprev->next = delnext;
-        delnext->prev = delprev;
+    void removeNode(DLLNode* node) {
+        DLLNode* preNode = node->prev;
+        DLLNode* postNode = node->next;
+
+        preNode->next = postNode;
+        postNode->prev = preNode;
+    }
+
+    void moveToFront(DLLNode* node) {
+        removeNode(node);
+        addNode(node);
     }
 
     int get(int key) {
-        if (mp.find(key) != mp.end()) {
-            node* resnode = mp[key];
-            int res = resnode->val;
-            mp.erase(key);
-            deletenode(resnode);
-            addnode(resnode);
-            mp[key] = head -> next;
-            return res;
-        }
-
-        return -1;
+        auto it = mp.find(key);
+        if (it == mp.end())
+            return -1;
+        DLLNode* node = it->second;
+        moveToFront(node);
+        return node->val;
     }
 
     void put(int key, int value) {
-        if (mp.find(key) != mp.end()) {
-            node* existingnode = mp[key];
-            mp.erase(key);
-            deletenode(existingnode);
+        auto it = mp.find(key);
+        if(it != mp.end()){
+            DLLNode* node = it->second;
+            node->val = value;
+            moveToFront(node);
         }
-        if (mp.size() == cap) {
-            mp.erase(tail->prev->key);
-            node* deletedNode = tail->prev;
-            deletenode(tail->prev);
-            delete deletedNode;
+        else{
+            size++;
+            DLLNode* newNode = new DLLNode(key, value);
+            mp[key] = newNode;
+            addNode(newNode);
+
+            if(size > cap){
+                DLLNode* tailNode = tail->prev;
+                removeNode(tailNode);
+                mp.erase(tailNode->key);
+                delete tailNode;
+                size--;
+            }
         }
-        addnode(new node(key, value));
-        mp[key] = head->next;
     }
 };
