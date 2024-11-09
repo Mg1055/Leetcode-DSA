@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int mod= 1e9+7;
+    int mod = 1e9+7;
     void prev_smaller_equal_element_index(vector<int>& arr, int n, vector<int>& ans){
         stack<int> st;
         for(int i = 0 ; i < n ; i++){
