@@ -1,9 +1,7 @@
 class Solution {
 public:
 
-    vector<int> findNSE(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> nse(n);
+    void findNSE(vector<int>& nums, vector<int>&nse, int n) {
         stack<int> st;
         for(int i = n-1; i >= 0; i--) {
             while(!st.empty() && nums[st.top()] >= nums[i])
@@ -11,12 +9,9 @@ public:
             nse[i] = st.empty() ? n : st.top();
             st.push(i);
         }
-        return nse;
     }
 
-    vector<int> findPSEE(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> psee(n);
+    void findPSEE(vector<int>& nums, vector<int>& psee, int n) {
         stack<int> st;
         for(int i = 0; i < n; i++) {
             while(!st.empty() && nums[st.top()] > nums[i])
@@ -24,12 +19,13 @@ public:
             psee[i] = st.empty() ? -1 : st.top();
             st.push(i);
         }
-        return psee;
     }
 
-    long long sumSubarrayMins(vector<int>& nums) {
-        vector<int> nse = findNSE(nums);
-        vector<int> psee = findPSEE(nums);
+    long long sumSubarrayMins(vector<int>& nums, int n) {
+        vector<int> nse(n);
+        findNSE(nums, nse, n);
+        vector<int> psee(n);
+        findPSEE(nums, psee, n);
 
         long long total = 0;
         for(int i = 0; i < nums.size(); i++) {
@@ -41,9 +37,7 @@ public:
         return total;
     }
 
-    vector<int> findNGEE(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> ngee(n);
+    void findNGEE(vector<int>& nums, vector<int>& ngee, int n) {
         stack<int> st;
         for(int i = n-1; i >= 0; i--){
             while (!st.empty() && nums[st.top()] < nums[i])
@@ -51,12 +45,9 @@ public:
             ngee[i] = st.empty() ? n : st.top();
             st.push(i);
         }
-        return ngee;
     }
 
-    vector<int> findPGE(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> pge(n);
+    void findPGE(vector<int>& nums, vector<int>& pge, int n) {
         stack<int> st;
         for (int i = 0; i < n; i++) {
             while (!st.empty() && nums[st.top()] <= nums[i])
@@ -64,15 +55,16 @@ public:
             pge[i] = st.empty() ? -1 : st.top();
             st.push(i);
         }
-        return pge;
     }
 
-    long long sumSubarrayMax(vector<int>& nums) {
-        vector<int> ngee = findNGEE(nums);
-        vector<int> pge = findPGE(nums);
+    long long sumSubarrayMax(vector<int>& nums, int n) {
+        vector<int> ngee(n);
+        findNGEE(nums, ngee, n);
+        vector<int> pge(n);
+        findPGE(nums, pge, n);
 
         long long total = 0;
-        for (int i = 0; i < nums.size(); i++) {
+        for (int i = 0; i < n; i++) {
             int left = i - pge[i];
             int right = ngee[i] - i;
             
@@ -82,8 +74,10 @@ public:
     }
 
     long long subArrayRanges(vector<int>& nums) {
-        long long maxSum = sumSubarrayMax(nums);
-        long long minSum = sumSubarrayMins(nums);
+        int n = nums.size();
+
+        long long maxSum = sumSubarrayMax(nums, n);
+        long long minSum = sumSubarrayMins(nums, n);
         return maxSum - minSum;
     }
 };
