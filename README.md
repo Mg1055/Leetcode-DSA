@@ -192,6 +192,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Mg1055/Leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0729-my-calendar-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/Mg1055/Leetcode-DSA/tree/master/0859-design-circular-deque) |
+| [0937-online-stock-span](https://github.com/Mg1055/Leetcode-DSA/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mg1055/Leetcode-DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
@@ -373,6 +374,7 @@
 | [0496-next-greater-element-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Mg1055/Leetcode-DSA/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/Mg1055/Leetcode-DSA/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Mg1055/Leetcode-DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mg1055/Leetcode-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Mg1055/Leetcode-DSA/tree/master/1002-maximum-width-ramp) |
@@ -442,6 +444,7 @@
 | [0402-remove-k-digits](https://github.com/Mg1055/Leetcode-DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/Mg1055/Leetcode-DSA/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Mg1055/Leetcode-DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/Mg1055/Leetcode-DSA/tree/master/1002-maximum-width-ramp) |
 | [2227-sum-of-subarray-ranges](https://github.com/Mg1055/Leetcode-DSA/tree/master/2227-sum-of-subarray-ranges) |
@@ -497,4 +500,5 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Mg1055/Leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
+| [0937-online-stock-span](https://github.com/Mg1055/Leetcode-DSA/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
