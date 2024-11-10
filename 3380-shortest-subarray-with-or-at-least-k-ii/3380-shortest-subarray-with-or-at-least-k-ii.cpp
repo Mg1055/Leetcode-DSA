@@ -25,17 +25,17 @@ public:
     }
 
     int minimumSubarrayLength(vector<int>& nums, int k) {
-        int n = nums.size();
-        int ans = INT_MAX;
+        int n = nums.size(), ans = INT_MAX;
         vector<int>bits(32,0);
-        int l = 0, r;
-        for(r = 0; r < n; r++){
+
+        for(int l = 0, r = 0; r < n; r++){
             addToWindow(bits, nums[r]);
             while(l <= r && bitsArraytoNum(bits) >= k){
                 ans = min(ans, r-l+1);
                 removeFromWindow(bits, nums[l++]);
             }
         }
+        
         return ans == INT_MAX ? -1 : ans;
     }
 };
