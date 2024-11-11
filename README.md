@@ -80,6 +80,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mg1055/Leetcode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Mg1055/Leetcode-DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/Mg1055/Leetcode-DSA/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Mg1055/Leetcode-DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Mg1055/Leetcode-DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -145,6 +146,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2047-find-a-peak-element-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/Mg1055/Leetcode-DSA/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,6 +187,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mg1055/Leetcode-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mg1055/Leetcode-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Mg1055/Leetcode-DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/Mg1055/Leetcode-DSA/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Mg1055/Leetcode-DSA/tree/master/3195-separate-black-and-white-balls) |
 ## Prefix Sum
 |  |
@@ -370,6 +373,7 @@
 | [0060-permutation-sequence](https://github.com/Mg1055/Leetcode-DSA/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Mg1055/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0670-maximum-swap](https://github.com/Mg1055/Leetcode-DSA/tree/master/0670-maximum-swap) |
+| [2716-prime-subtraction-operation](https://github.com/Mg1055/Leetcode-DSA/tree/master/2716-prime-subtraction-operation) |
 ## Matrix
 |  |
 | ------- |
@@ -533,4 +537,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Mg1055/Leetcode-DSA/tree/master/0146-lru-cache) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/Mg1055/Leetcode-DSA/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
