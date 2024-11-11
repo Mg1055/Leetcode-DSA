@@ -60,7 +60,7 @@ public:
         int i = 0, j = 0;
         while(i < n && j < m){
             if(text[i] == pat[j]){
-                i++; j++;
+                i++, j++;
             } 
             else if(j > 0){
                 j = lps[j-1];
