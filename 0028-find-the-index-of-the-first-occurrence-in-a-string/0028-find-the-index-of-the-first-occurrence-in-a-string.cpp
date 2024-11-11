@@ -6,20 +6,12 @@ public:
         lps[0] = 0;
         int n = pat.size();
         while(i < n){
-            if(pat[i] == pat[len]){
-                len++;
-                lps[i] = len;
-                i++;
-            }
-            else{
-                if(len == 0){
-                    lps[i] = 0;
-                    i++;
-                }
-                else{
-                    len = lps[len-1];
-                }
-            }
+            if(pat[i] == pat[len])
+                lps[i++] = ++len;
+            else if(len == 0)
+                lps[i++] = 0;    
+            else
+                len = lps[len-1];
         }
     }
 
