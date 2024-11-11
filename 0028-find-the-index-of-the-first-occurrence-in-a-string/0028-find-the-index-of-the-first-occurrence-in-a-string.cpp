@@ -2,26 +2,29 @@ class Solution {
 public:
 
     void findLPS(string pat, vector<int>&lps){
-        int i = 1, j = 0;
-        int m = pat.size();
-        while(i < m){
-            if(pat[i] == pat[j]){
-                lps[i] = j+1;
-                i++;j++;
-            }
-            else if(j > 0){
-                j = lps[j-1];
+        int i = 1, len = 0; // len is lps of previous index
+        lps[0] = 0;
+        int n = pat.size();
+        while(i < n){
+            if(pat[i] == pat[len]){
+                len++;
+                lps[i] = len;
+                i++;
             }
             else{
-                lps[i] = 0;
-                i++;
+                if(len == 0){
+                    lps[i] = 0;
+                    i++;
+                }
+                else{
+                    len = lps[len-1];
+                }
             }
         }
     }
 
     int strStr(string text, string pat) {
         int n = text.size(), m = pat.size();
-
         // Rabin karp
         // int d = 256;
         // int q = 101; // prime for hashing
@@ -58,18 +61,19 @@ public:
         vector<int>lps(m);
         findLPS(pat, lps);
         int i = 0, j = 0;
-        while(i < n && j < m){
-            if(text[i] == pat[j]){
+        while(i < n){
+            if(text[i] == pat[j])
                 i++, j++;
-            } 
-            else if(j > 0){
-                j = lps[j-1];
-            }
-            else{
-                i++;
+            if(j == m)  
+                return i-j;
+            else if (i < n && pat[j] != text[i]) { 
+                if (j == 0) 
+                    i++;
+                else
+                    j = lps[j - 1];  
             }
         }
 
-        return j == pat.size() ? i-j : -1;
+        return -1;
     }
 };
