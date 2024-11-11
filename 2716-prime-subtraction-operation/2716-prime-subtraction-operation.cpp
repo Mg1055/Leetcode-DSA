@@ -18,16 +18,16 @@ public:
 
     bool primeSubOperation(vector<int>& nums) {
         int n = nums.size();
-        cout << "n: " << n << endl;
+        
         vector<int>primes;
         sieve(1000, primes);
+
         for(int i = n-2; i >= 0; i--){
             if(nums[i] >= nums[i+1]){
                 int dif = nums[i] - nums[i+1];
                 auto it = upper_bound(primes.begin(), primes.end(), dif);
                 int p = *it;
-                cout << "i: " << i << " p: " << p << endl;
-                if(it == primes.end() || p >= nums[i])
+                if(it == primes.end() || *it >= nums[i])
                     return false;
                 nums[i] -= p;
             }
