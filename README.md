@@ -397,6 +397,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Mg1055/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Mg1055/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mg1055/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mg1055/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Mg1055/Leetcode-DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Mg1055/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mg1055/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -494,6 +495,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mg1055/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mg1055/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Mg1055/Leetcode-DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/1035-cousins-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mg1055/Leetcode-DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -510,6 +512,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mg1055/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mg1055/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Mg1055/Leetcode-DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/1035-cousins-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mg1055/Leetcode-DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -519,6 +522,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mg1055/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mg1055/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Mg1055/Leetcode-DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mg1055/Leetcode-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
