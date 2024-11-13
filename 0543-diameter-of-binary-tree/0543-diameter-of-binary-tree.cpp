@@ -11,23 +11,20 @@
  */
 class Solution {
 public:
-    int ans;
 
-    int trav(TreeNode* root){
+    int trav(TreeNode* root, int &ans){
         if(root == NULL)    return 0;
 
-        int lh = trav(root->left);
-        int rh = trav(root->right);
-        int dist = lh + rh;
-        cout << "dist: " << dist << endl;
-        ans = max(ans, dist);
+        int lh = trav(root->left, ans);
+        int rh = trav(root->right, ans);
+        ans = max(ans, lh + rh);
 
         return 1 + max(lh, rh);
     }
 
     int diameterOfBinaryTree(TreeNode* root) {
-        ans = 0;
-        trav(root);
+        int ans = 0;
+        trav(root, ans);
         return ans;
     }
 };
