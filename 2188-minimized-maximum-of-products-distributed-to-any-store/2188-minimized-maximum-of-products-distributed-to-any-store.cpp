@@ -3,9 +3,9 @@ public:
 
     bool isPossible(vector<int>&arr, int maxQ, int stores){
         for(auto x : arr){
-            stores -= (x + maxQ -1)/maxQ;
-            if(stores < 0) 
-                return false;
+            stores -= x/maxQ;
+            if(x % maxQ != 0)   stores--;
+            if(stores < 0)  return false;
         }
         return true;
     }
