@@ -533,6 +533,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Mg1055/Leetcode-DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/1035-cousins-in-binary-tree) |
@@ -576,6 +577,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Mg1055/Leetcode-DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/1035-cousins-in-binary-tree) |
@@ -633,4 +635,8 @@
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/Mg1055/Leetcode-DSA/tree/master/2716-prime-subtraction-operation) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
