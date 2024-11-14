@@ -103,6 +103,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Mg1055/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Mg1055/Leetcode-DSA/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Mg1055/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Mg1055/Leetcode-DSA/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/Mg1055/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Mg1055/Leetcode-DSA/tree/master/0812-rotate-string) |
@@ -215,6 +216,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Mg1055/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mg1055/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Mg1055/Leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0729-my-calendar-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/Mg1055/Leetcode-DSA/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/Mg1055/Leetcode-DSA/tree/master/0937-online-stock-span) |
@@ -525,6 +527,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Mg1055/Leetcode-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Mg1055/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -542,6 +545,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Mg1055/Leetcode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Mg1055/Leetcode-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/1035-cousins-in-binary-tree) |
@@ -565,6 +569,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Mg1055/Leetcode-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Mg1055/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -587,6 +592,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Mg1055/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Mg1055/Leetcode-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
