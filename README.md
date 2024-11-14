@@ -517,6 +517,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Mg1055/Leetcode-DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/1035-cousins-in-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Mg1055/Leetcode-DSA/tree/master/2384-root-equals-sum-of-children) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mg1055/Leetcode-DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -551,6 +552,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Mg1055/Leetcode-DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/1035-cousins-in-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Mg1055/Leetcode-DSA/tree/master/2384-root-equals-sum-of-children) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mg1055/Leetcode-DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/2677-cousins-in-binary-tree-ii) |
