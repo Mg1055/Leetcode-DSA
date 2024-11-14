@@ -10,7 +10,7 @@
 class Solution {
 public:
 
-    void makeParent(TreeNode* root,unordered_map<TreeNode*,TreeNode*> &parent){
+    void makeParent(TreeNode* root, unordered_map<int, TreeNode*>& parent){
         queue<TreeNode*>q;
         q.push(root);
         while(!q.empty()){
@@ -19,11 +19,11 @@ public:
             TreeNode* node = q.front();
                 q.pop();
                 if(node->left) {
-                    parent[node->left] = node;
+                    parent[node->left->val] = node;
                     q.push(node->left);
                 }
                 if(node->right){
-                    parent[node->right] = node;
+                    parent[node->right->val] = node;
                     q.push(node->right);
                 }
             }
@@ -31,29 +31,29 @@ public:
     }
 
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        unordered_map<TreeNode*, TreeNode*> parent;
+        unordered_map<int, TreeNode*> parent;
         makeParent(root, parent);
 
-        unordered_map<TreeNode*, bool> visited;
+        unordered_map<int, bool> visited;
         vector<int> ans;
         solve(target, parent, visited, k, ans);
         
         return ans;
     }
 
-    void solve(TreeNode* target,unordered_map<TreeNode*, TreeNode*> &parent,
-                unordered_map<TreeNode*, bool>& visited, int dist, vector<int> &ans){
+    void solve(TreeNode* target,unordered_map<int, TreeNode*> &parent,
+                unordered_map<int, bool>& visited, int dist, vector<int> &ans){
         if(dist == 0)
             ans.push_back(target->val);
         
-        visited[target] = true;
-        if(target->left && !visited[target->left])
+        visited[target->val] = true;
+        if(target->left && !visited[target->left->val])
             solve(target->left, parent, visited, dist - 1, ans);
 
-        if(target->right && !visited[target->right])
+        if(target->right && !visited[target->right->val])
             solve(target->right, parent, visited, dist - 1, ans);
 
-        if(parent[target] != NULL && !visited[parent[target]])
-            solve(parent[target], parent, visited, dist - 1, ans);
+        if(parent[target->val] != NULL && !visited[parent[target->val]->val])
+            solve(parent[target->val], parent, visited, dist - 1, ans);
     }
 };
