@@ -11,9 +11,11 @@ public:
     }
 
     int minimizedMaximum(int n, vector<int>& arr) {
-        sort(arr.begin(), arr.end());
+        int maxi = INT_MIN;
+        for(auto x : arr)
+            maxi = max(maxi, x);
 
-        int l = 1, r = arr[arr.size() - 1];
+        int l = 1, r = maxi;
         while(l <= r){
             int mid = (l+r)/2;
             if(isPossible(arr, mid, n))
