@@ -60,6 +60,7 @@
 | [0948-sort-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/Mg1055/Leetcode-DSA/tree/master/1002-maximum-width-ramp) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mg1055/Leetcode-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mg1055/Leetcode-DSA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mg1055/Leetcode-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mg1055/Leetcode-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -327,6 +328,7 @@
 | [0567-permutation-in-string](https://github.com/Mg1055/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mg1055/Leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mg1055/Leetcode-DSA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Mg1055/Leetcode-DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mg1055/Leetcode-DSA/tree/master/1694-make-sum-divisible-by-p) |
@@ -423,6 +425,7 @@
 | [0048-rotate-image](https://github.com/Mg1055/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Mg1055/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Mg1055/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mg1055/Leetcode-DSA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mg1055/Leetcode-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2047-find-a-peak-element-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mg1055/Leetcode-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
