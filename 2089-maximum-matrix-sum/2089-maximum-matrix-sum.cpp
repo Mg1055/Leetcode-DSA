@@ -15,8 +15,6 @@ public:
             }
         }
 
-        if (negCount % 2 == 0)
-            return sum;
-        return sum - 2 * minValue;
+        return (negCount % 2 == 0) ? sum : sum - 2 * minValue;
     }
 };
