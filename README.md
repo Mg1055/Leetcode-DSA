@@ -695,4 +695,5 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Mg1055/Leetcode-DSA/tree/master/0547-number-of-provinces) |
+| [3189-find-champion-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
