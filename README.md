@@ -101,6 +101,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Mg1055/Leetcode-DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Mg1055/Leetcode-DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## String
 |  |
@@ -603,6 +604,7 @@
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mg1055/Leetcode-DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -699,4 +701,5 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/Mg1055/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [3189-find-champion-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
