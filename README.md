@@ -23,6 +23,7 @@
 | [0056-merge-intervals](https://github.com/Mg1055/Leetcode-DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Mg1055/Leetcode-DSA/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Mg1055/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Mg1055/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Mg1055/Leetcode-DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mg1055/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Mg1055/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
@@ -294,6 +295,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mg1055/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Mg1055/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Mg1055/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Mg1055/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0148-sort-list) |
@@ -372,6 +374,7 @@
 | [0015-3sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Mg1055/Leetcode-DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Mg1055/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mg1055/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Mg1055/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Mg1055/Leetcode-DSA/tree/master/0169-majority-element) |
