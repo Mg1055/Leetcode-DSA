@@ -667,6 +667,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/Mg1055/Leetcode-DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/Mg1055/Leetcode-DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mg1055/Leetcode-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2201-valid-arrangement-of-pairs](https://github.com/Mg1055/Leetcode-DSA/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mg1055/Leetcode-DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/2677-cousins-in-binary-tree-ii) |
 ## String Matching
@@ -707,6 +708,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Mg1055/Leetcode-DSA/tree/master/0547-number-of-provinces) |
+| [2201-valid-arrangement-of-pairs](https://github.com/Mg1055/Leetcode-DSA/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mg1055/Leetcode-DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -714,4 +716,8 @@
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mg1055/Leetcode-DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/Mg1055/Leetcode-DSA/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
