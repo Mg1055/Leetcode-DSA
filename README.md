@@ -87,6 +87,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mg1055/Leetcode-DSA/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mg1055/Leetcode-DSA/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2227-sum-of-subarray-ranges](https://github.com/Mg1055/Leetcode-DSA/tree/master/2227-sum-of-subarray-ranges) |
+| [2232-adding-spaces-to-a-string](https://github.com/Mg1055/Leetcode-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mg1055/Leetcode-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Mg1055/Leetcode-DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mg1055/Leetcode-DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -132,6 +133,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mg1055/Leetcode-DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Mg1055/Leetcode-DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mg1055/Leetcode-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/Mg1055/Leetcode-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mg1055/Leetcode-DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/Mg1055/Leetcode-DSA/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Mg1055/Leetcode-DSA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -316,6 +318,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mg1055/Leetcode-DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/Mg1055/Leetcode-DSA/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mg1055/Leetcode-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/Mg1055/Leetcode-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mg1055/Leetcode-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mg1055/Leetcode-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mg1055/Leetcode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -518,6 +521,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/Mg1055/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Mg1055/Leetcode-DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2232-adding-spaces-to-a-string](https://github.com/Mg1055/Leetcode-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mg1055/Leetcode-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mg1055/Leetcode-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
