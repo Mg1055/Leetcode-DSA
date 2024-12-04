@@ -138,6 +138,7 @@
 | [2580-circular-sentence](https://github.com/Mg1055/Leetcode-DSA/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Mg1055/Leetcode-DSA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mg1055/Leetcode-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Mg1055/Leetcode-DSA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Mg1055/Leetcode-DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Mg1055/Leetcode-DSA/tree/master/3195-separate-black-and-white-balls) |
 ## Trie
@@ -323,6 +324,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mg1055/Leetcode-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mg1055/Leetcode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mg1055/Leetcode-DSA/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Mg1055/Leetcode-DSA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Mg1055/Leetcode-DSA/tree/master/3195-separate-black-and-white-balls) |
 ## Hash Table
 |  |
