@@ -11,7 +11,7 @@ public:
         }
 
         vector<bool> ans; 
-        for(auto q : queries){
+        for(auto& q : queries){
             int left = q[0], right = q[1];
             int specialCount = prefix[right] - (left > 0 ? prefix[left] : 0);
             ans.push_back(specialCount == 0);
