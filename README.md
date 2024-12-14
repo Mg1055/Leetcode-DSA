@@ -106,6 +106,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mg1055/Leetcode-DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Mg1055/Leetcode-DSA/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Mg1055/Leetcode-DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/Mg1055/Leetcode-DSA/tree/master/2868-continuous-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Mg1055/Leetcode-DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/3427-special-array-ii) |
@@ -267,6 +268,7 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/0729-my-calendar-i) |
+| [2868-continuous-subarrays](https://github.com/Mg1055/Leetcode-DSA/tree/master/2868-continuous-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -379,6 +381,7 @@
 | [0239-sliding-window-maximum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/Mg1055/Leetcode-DSA/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mg1055/Leetcode-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2868-continuous-subarrays](https://github.com/Mg1055/Leetcode-DSA/tree/master/2868-continuous-subarrays) |
 ## Recursion
 |  |
 | ------- |
@@ -445,6 +448,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mg1055/Leetcode-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Mg1055/Leetcode-DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mg1055/Leetcode-DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/Mg1055/Leetcode-DSA/tree/master/2868-continuous-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -552,6 +556,7 @@
 | [1755-defuse-the-bomb](https://github.com/Mg1055/Leetcode-DSA/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mg1055/Leetcode-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Mg1055/Leetcode-DSA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2868-continuous-subarrays](https://github.com/Mg1055/Leetcode-DSA/tree/master/2868-continuous-subarrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Backtracking
@@ -719,6 +724,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mg1055/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mg1055/Leetcode-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2868-continuous-subarrays](https://github.com/Mg1055/Leetcode-DSA/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
 |  |
 | ------- |
