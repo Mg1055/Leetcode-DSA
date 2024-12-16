@@ -113,6 +113,7 @@
 | [3427-special-array-ii](https://github.com/Mg1055/Leetcode-DSA/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -452,6 +453,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Mg1055/Leetcode-DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mg1055/Leetcode-DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Mg1055/Leetcode-DSA/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -463,6 +465,7 @@
 | [0062-unique-paths](https://github.com/Mg1055/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0670-maximum-swap](https://github.com/Mg1055/Leetcode-DSA/tree/master/0670-maximum-swap) |
 | [2716-prime-subtraction-operation](https://github.com/Mg1055/Leetcode-DSA/tree/master/2716-prime-subtraction-operation) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -548,6 +551,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mg1055/Leetcode-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mg1055/Leetcode-DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mg1055/Leetcode-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mg1055/Leetcode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
