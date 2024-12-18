@@ -8,15 +8,14 @@ public:
             int initialPrice = prices[i];
             if(initialPrice >= st.top()){
                 prices[i] -= st.top();
-                st.push(initialPrice);
             }
             else{
                 while(!st.empty() && initialPrice < st.top())
                     st.pop();
                 if(!st.empty())
                     prices[i] -= st.top();
-                st.push(initialPrice);
             }
+            st.push(initialPrice);
         }
         return prices;
     }
