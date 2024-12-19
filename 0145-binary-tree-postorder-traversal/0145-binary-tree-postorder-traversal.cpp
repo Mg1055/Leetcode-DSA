@@ -11,18 +11,20 @@
  */
 class Solution {
 public:
-
-    void trav(TreeNode* root, vector<int>&ans){
-        if(root == NULL)
-            return;
-        trav(root->left, ans);
-        trav(root->right, ans);
-        ans.push_back(root->val);
-    }  
-
     vector<int> postorderTraversal(TreeNode* root) {
+        if(root == NULL)    return {};
+        
         vector<int>ans;
-        trav(root, ans);
+        stack<TreeNode*>st;
+        st.push(root);
+        while(!st.empty()){
+            TreeNode* node = st.top();
+            st.pop();
+            ans.push_back(node->val);
+            if(node->left)  st.push(node->left);
+            if(node->right) st.push(node->right);
+        }
+        reverse(ans.begin(), ans.end());
         return ans;
     }
 };
